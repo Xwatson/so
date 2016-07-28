@@ -17,5 +17,5 @@ const router = new VueRouter({
 RouterConfig(router);
 //启动
 router.start(App, '#app');
-
+//commit test
 Toast('提示信息');
